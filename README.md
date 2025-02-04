@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Uladislau Chepelevich 👋  
+# Hi, I'm Uladislau Chepelevich   
 
 ## 🌍 About Me
 - 💻 Passionate **Python Developer**  
