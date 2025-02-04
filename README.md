@@ -1,9 +1,8 @@
 # Hi, I'm Uladislau Chepelevich   
 
 ##  About Me
-- 💻 Passionate **Python Developer**  
-- 📚 Open to learning **new technologies and contributing to open-source**  
-- 📩 Let's connect on [LinkedIn](https://www.linkedin.com/in/u%C5%82adzis%C5%82au-chepe%C5%82evich-9bb953256/) or [Telegram](https://t.me/chepelevichad) 
+- Passionate **Python Developer**  
+- Open to learning **new technologies and contributing to open-source**  
 - Computer science student
 ---
 
@@ -24,6 +23,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)  
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions)  
 
+---
 
+Let's connect on [LinkedIn](https://www.linkedin.com/in/u%C5%82adzis%C5%82au-chepe%C5%82evich-9bb953256/) or [Telegram](https://t.me/chepelevichad) 
 
 
