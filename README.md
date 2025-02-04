@@ -3,7 +3,7 @@
 ## 🌍 About Me
 - 💻 Passionate **Python Developer**  
 - 📚 Open to learning **new technologies and contributing to open-source**  
-- 📩 Let's connect on [[LinkedIn](https://www.linkedin.com/in/u%C5%82adzis%C5%82au-chepe%C5%82evich-9bb953256/)](#) or [[Telegram](https://www.linkedin.com/in/u%C5%82adzis%C5%82au-chepe%C5%82evich-9bb953256/)](#)  
+- 📩 Let's connect on [[LinkedIn](https://www.linkedin.com/in/u%C5%82adzis%C5%82au-chepe%C5%82evich-9bb953256/)] or [[Telegram](https://www.linkedin.com/in/u%C5%82adzis%C5%82au-chepe%C5%82evich-9bb953256/)]  
 
 ---
 
@@ -24,10 +24,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)  
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions)  
 
----
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB_USERNAME&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB_USERNAME&layout=compact&theme=dark)  
 
 
