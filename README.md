@@ -3,7 +3,7 @@
 ## 🌍 About Me
 - 💻 Passionate **Python Developer**  
 - 📚 Open to learning **new technologies and contributing to open-source**  
-- 📩 Let's connect on [LinkedIn](https://www.linkedin.com/in/u%C5%82adzis%C5%82au-chepe%C5%82evich-9bb953256/) or [Telegram]((https://t.me/chepelevichad))  
+- 📩 Let's connect on [LinkedIn](https://www.linkedin.com/in/u%C5%82adzis%C5%82au-chepe%C5%82evich-9bb953256/) or [Telegram](https://t.me/chepelevichad) 
 
 ---
 
