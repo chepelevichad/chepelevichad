@@ -35,7 +35,7 @@
 <br>    
  
 - **DevOps & Deployment**:
-- 
+  
     ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)  
     ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions)  
 
