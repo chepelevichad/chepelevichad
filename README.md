@@ -20,12 +20,11 @@
 - **Frameworks & Libraries**:
 
    ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)  
-   ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium)
-   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring)
-  
-   ![JavaFX](https://img.shields.io/badge/-JavaFX-1B75BC?style=for-the-badge&logo=java&logoColor=white)
-  
-<br>
+   ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium)  
+   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring)  
+   ![JavaFX](https://img.shields.io/badge/-JavaFX-1B75BC?style=for-the-badge&logo=java&logoColor=white)  
+
+
 
 - **Databases & Tools**:
     
