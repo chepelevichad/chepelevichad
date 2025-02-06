@@ -10,14 +10,17 @@
 
 ### 🛠 Programming Languages  
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)  
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)  
 
 ### 🚀 Frameworks & Libraries  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)  
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium)  
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring) 
 
 ### 🗄 Databases & Tools  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)  
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql) 
 
 ### 🛠 DevOps & Deployment  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)  
