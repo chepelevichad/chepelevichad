@@ -4,7 +4,8 @@
 - Passionate **Python Developer**  
 - Open to learning **new technologies and contributing to open-source**  
 - Computer science student
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## ⚡ Tech Stack
 
