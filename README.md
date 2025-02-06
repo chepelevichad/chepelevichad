@@ -7,7 +7,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## ⚡ Tech Stack
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack </b>
+<br>
 
 ### 🛠 Programming Languages  
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)  
@@ -27,7 +28,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)  
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions)  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/u%C5%82adzis%C5%82au-chepe%C5%82evich-9bb953256/) or [Telegram](https://t.me/chepelevichad) 
 
