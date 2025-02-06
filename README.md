@@ -1,7 +1,7 @@
 # Hi, I'm Uladislau Chepelevich   
 
 ##  About Me
-- Passionate **Python Developer**  
+- Passionate **Developer**  
 - Open to learning **new technologies and contributing to open-source**  
 - Computer science student
 
